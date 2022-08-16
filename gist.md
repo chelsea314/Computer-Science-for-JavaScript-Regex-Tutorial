@@ -1,10 +1,16 @@
-# Title (replace with your title)
+#  Match an Email using Regular Expression
 
-Introductory paragraph (replace this with your text)
+Gathering information from users can be a tricky thing sometimes. We often want to validate that the input is valid. This tutorial will guide you through using a regular expression, or "regex", to match emails to ensure that they are of valid format. 
+
+
+
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The expressions can look daunting, but in this tutorial  we'll break it down and anaylze each portion to better understand the regex. As our guide, we will use the expression: 
+<br>
+
+## /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/  
 
 ## Table of Contents
 
