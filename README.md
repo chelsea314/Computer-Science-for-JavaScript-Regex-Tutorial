@@ -27,7 +27,7 @@ Click link to view the 'Match an Email Regex' gist.
 
 [Regex Tutorial - Coding Bootcamp](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial)
 
-[Nicole Wallce's Gist](https://gist.github.com/nicolewallace09/e4dc8aca65e7652501bdb8470df45c77)
+[Nicole Wallace's Gist](https://gist.github.com/nicolewallace09/e4dc8aca65e7652501bdb8470df45c77)
 
 [Microsoft - Lazy & Greedy Quantifiers](https://docs.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions#greedy-and-lazy-quantifiers)
 
